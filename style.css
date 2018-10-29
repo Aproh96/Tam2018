@@ -1,0 +1,41 @@
+html, body  
+	{background: #2a2a2a; 
+	 text-align: center; 
+	 font-size: 1em; 
+	 font-family: verdana, tahoma, arial, helvetica, sans-serif;
+	}
+body *
+	{margin: 0px; 
+	 padding: 0px; 
+	 font-size: 1em; 
+	 text-align: left;
+	}
+img 
+  {border: 0px;
+	}
+	p{color: white;}
+	h1{color:#09C;}
+	ol{color: white;}
+#header{width:100%}
+#pojemniktresc
+{width 90%;
+display: inline-block;}
+#zawartosc
+{
+width: 80%;
+background: #2a2a2a;
+float:right;
+}
+#stopka{text-align: center;}
+#menuboczne
+{width: 20%;
+position: fixed;
+float:left;
+word-wrap: break-word;}
+#menuboczne ul{padding: 1%;
+list-style-type: none;}
+#menuboczne a{color:#09C;
+text-decoration: none;}
+#menuboczne a:hover{color:#da251d;}
+#stopka{margin: 0 auto;
+text-align: center;}
